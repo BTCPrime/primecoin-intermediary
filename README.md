@@ -1,5 +1,10 @@
-Primecoin integration/staging tree
-==================================
+Primecoin intermediary node
+===========================
+
+Acts as a bridge between the 0.8 node and the 0.16 node, passes bnPrimeChainMultipier (original 0.8 doesnt)
+
+
+
 
 http://primecoin.org
 
